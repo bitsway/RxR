@@ -4,12 +4,12 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.businesssolutionapps.RxR"
-        version   = "3.0.10">
+        version   = "1.0.0">
 
-    <name>RxR</name>
+    <name>Pharma</name>
 
     <description>
-        mReporting Pharma
+        RxR
     </description>
 
     <author href="http://phonegap.com" email="sabbir456@gmail.com">
@@ -22,7 +22,7 @@
         permission on your app, which PhoneGap requires.
     -->
 	<!--
-    <preference name="permissions"           value='none'/>
+    <preference name="permissions"                value="none"/>
 	-->
 
     <!-- Customize your app and platform with the preference element. -->
